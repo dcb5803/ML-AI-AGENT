@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+mlflow
+scikit-learn
+pandas
+numpy
+transformers
+langchain
